@@ -2,5 +2,4 @@ library("usethis")
 edit_git_config()
 use_git()
 
-
-library ("tidyverse")
+library("janitor")
